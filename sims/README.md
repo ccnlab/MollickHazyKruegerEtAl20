@@ -1,0 +1,1 @@
+The C++ version of the model that goes with the MollickHazyKruegerEtAl20 paper in press in Psychological Review is located under the /cemer subdirectory: ../sims/cemer/.  An updated version ported to the new Go language is currently under development and will be in a `../sims/pvlv` subdirectory when it is available.
